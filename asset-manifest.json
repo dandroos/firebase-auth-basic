@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/github.io/firebase-auth-basic/static/js/main.c6755cb7.js",
+    "static/media/firebase.png": "/github.io/firebase-auth-basic/static/media/firebase.a4156cb67d6d0676cffc.png",
+    "index.html": "/github.io/firebase-auth-basic/index.html",
+    "main.c6755cb7.js.map": "/github.io/firebase-auth-basic/static/js/main.c6755cb7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c6755cb7.js"
+  ]
+}
